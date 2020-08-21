@@ -1,0 +1,615 @@
+{
+  "dataList": [
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    },
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    },
+    {
+      "code": "07",
+      "name": "C1",
+      "description": "广州"
+    },
+    {
+      "code": "08",
+      "name": "C2",
+      "description": "深圳"
+    },
+    {
+      "code": "09",
+      "name": "C3",
+      "description": "梅州"
+    },
+    {
+      "code": "10",
+      "name": "D1",
+      "description": "东莞"
+    },
+    {
+      "code": "11",
+      "name": "D2",
+      "description": "潮州"
+    },
+    {
+      "code": "12",
+      "name": "E1",
+      "description": "虎门"
+    }
+
+  ]
+}

@@ -1,0 +1,16 @@
+1 : 基于 git@github.com:CymChad/BaseRecyclerViewAdapterHelper.git 分析 RecylerView上拉加载更多，下拉刷新功能源码
+
+2 ： 现在 根目录的  gradle下添加依赖
+    allprojects {
+        repositories {
+            ...
+            maven { url 'https://jitpack.io' }
+        }
+    }
+
+    然后在 对应需要使用的 moudel下 添加依赖
+    dependencies {
+        implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4'
+    }
+
+3：

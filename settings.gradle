@@ -1,0 +1,3 @@
+include ':recylerview_lib'
+include ':app'
+rootProject.name = "RecylerViewDemo"
