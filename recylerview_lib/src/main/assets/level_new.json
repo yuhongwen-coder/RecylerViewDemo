@@ -1,0 +1,35 @@
+{
+  "dataList": [
+    {
+      "code": "01",
+      "name": "A1",
+      "description": "武汉"
+    },
+    {
+      "code": "02",
+      "name": "A2",
+      "description": "宜昌"
+    },
+    {
+      "code": "03",
+      "name": "B1",
+      "shortName": "B",
+      "description": "荆州"
+    },
+    {
+      "code": "04",
+      "name": "B2",
+      "description": "孝感"
+    },
+    {
+      "code": "05",
+      "name": "B3",
+      "description": "黄冈"
+    },
+    {
+      "code": "06",
+      "name": "B4",
+      "description": "潜江"
+    }
+  ]
+}

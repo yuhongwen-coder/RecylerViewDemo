@@ -1,0 +1,35 @@
+{
+  "dataList": [
+    {
+      "code": "00001",
+      "name": "A1",
+      "description": "德国"
+    },
+    {
+      "code": "000002",
+      "name": "A2",
+      "description": "美国"
+    },
+    {
+      "code": "000003",
+      "name": "B1",
+      "shortName": "B",
+      "description": "法国"
+    },
+    {
+      "code": "00004",
+      "name": "B2",
+      "description": "俄罗斯"
+    },
+    {
+      "code": "0005",
+      "name": "B3",
+      "description": "中国"
+    },
+    {
+      "code": "00006",
+      "name": "B4",
+      "description": "英国"
+    }
+  ]
+}
